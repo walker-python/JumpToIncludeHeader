@@ -1,7 +1,7 @@
 JumpToIncludeHeader
 ===================
 
-sublime text2 plugins,select include file,then press f12 jump to C++ include file location.
+Sublime Text 2 Plugins,select include file,then press f12 jump to C++ include file location.
 
 
 First,copy jump_to_include_header.py to Sublime Text 2.0.2\Data\Packages\JumpToIncludeHeader\jump_to_include_header.py
