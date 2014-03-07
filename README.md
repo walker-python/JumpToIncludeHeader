@@ -21,3 +21,4 @@ Third,you can modify Key Bindings User,set user_search_path for your project nee
 
 Notice,you can execute "echo "#include <stdio.h> int main(){}" > t.c; g++ -v t.c; rm t.c" to get g++ header file search path.
   
+BLOG: http://blog.csdn.net/infoworld/article/details/20748261
